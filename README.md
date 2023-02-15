@@ -6,5 +6,5 @@ This is a bash script that auto downloads english subtitles from avistaz when a 
 
 set to run the script on torrent added with 
 
-avistaz2.sh "%N" "%D"
+avistaz.sh "%N" "%D"
 
